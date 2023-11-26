@@ -3,7 +3,7 @@
 ## 영상
 
 - [Fliki.ai](https://fliki.ai/): AI를 사용하여 텍스트를 비디오로 변환하고 AI 음성으로 아이디어를 멋진 콘텐츠로 만들어주는 플랫폼
-- [Traw.ai](https://traw.ai/): YouTube 비디오의 URL을 복사하여 붙여넣기만 하면 ChatGPT가 생성한 간결한 TL;DR과 요약을 경험할 수 있는 서비스
+- [Traw.ai](https://traw.ai/): YouTube 비디오의 URL을 복사하여 붙여넣기만 하면 ChatGPT가 생성한 간결한 요약을 경험할 수 있는 서비스
 
 ## 이미지
 
