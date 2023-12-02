@@ -15,6 +15,7 @@
 - [Browse.ai](https://www.browse.ai/): 코딩 없이 모든 웹사이트에서 데이터를 추출하고 모니터링할 수 있는 가장 쉬운 방법을 제공하는 서비스
 - [Humata.ai](https://www.humata.ai/): 긴 문서를 채팅으로 탐색하고 PDF AI에게 요약을 요청할 수 있는 서비스
 - [Gamma.ai](https://www.gamma.app): AI 기술을 이용하여 아름다운 프레젠테이션, 웹페이지 및 문서를 쉽게 생성하는 도구
+- [ChatPDF](https://www.chatpdf.com/): PDF 기반 질의응답 챗봇 서비스.
 
 ## 마케팅
 
